@@ -1,10 +1,10 @@
 <p>
 <a href="#">
-<img title="DH-Hackbar" src="https://github.com/Imon-404/CHAT-GPT-APK/blob/main/Screenshot_20240906-114837.png">
+<img title="DH-Hackbar" src="https://github.com/Imon-404/Tarabox-Player/blob/main/Screenshot_20241004-233028.png">
 </a>
 </p>
 
-<b><u>Disclaimer:</u></b> This App Is Ai Chat Gpt. This App Made By Farhan Islam Imon
+<b><u>Disclaimer:</u></b> This App Is Terabox Player and downloader. This App Made By Farhan Islam Imon
 </p>
 <br>
 
