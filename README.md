@@ -9,7 +9,8 @@
 <br>
 
 ### Download
-📥 Download the CHAT-GPT apk <a href="https://github.com/Imon-404/CHAT-GPT-APK/raw/main/CHAT-GPT.apk">Download</a>.
+📥 Download the CHAT-GPT apk <a href="https://github.com/Imon-404/Tarabox-Player/raw/main/terabox%20Player.apk
+">Download</a>.
 <br>
 <br>
 
